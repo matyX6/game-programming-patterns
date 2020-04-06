@@ -19,16 +19,6 @@ namespace Assets.Command.Scripts
         {
             _unit.position = new Vector3(_x, _y);
         }
-
-        public void Redo()
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public void Undo()
-        {
-            throw new System.NotImplementedException();
-        }
     }
 }
 
